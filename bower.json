@@ -11,7 +11,7 @@
     "public/css/application.css"
   ],
   "dependencies": {
-    "moment": "2.10.3",
+    "moment": "2.17.1",
     "jquery": "2.1.4"
   },
   "moduleType": [
